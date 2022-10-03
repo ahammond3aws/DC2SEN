@@ -1,0 +1,187 @@
+<mxfile host="app.diagrams.net" modified="2022-10-03T14:43:56.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="z1m0iB_kVGDTtTzcU87l" version="20.4.0" type="github">
+  <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
+    <mxGraphModel dx="1379" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-3" value="" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="210" width="930" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-3" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="564.8695652173915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-5" value="User Interface" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="520" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-5" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-7" value="Smart Watch connector" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="270" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-7" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=circle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=circle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="410" />
+              <mxPoint x="530" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-9" value="&lt;p style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:&lt;br/&gt;0cm;margin-left:72.0pt;mso-add-space:auto;text-indent:-18.0pt;mso-list:l0 level2 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;Meal/exercise&lt;br/&gt;tracker&lt;/p&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="270" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-9" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=circle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-11" value="Quiz generator" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="960" y="520" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-11" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="348" y="410" />
+              <mxPoint x="530" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="348" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-15" value="User Database" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="258" y="520" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-16" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-15" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=circle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-17" value="Recommendation generator" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="950" y="270" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-17" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-25" value="User information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="492" y="522" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-30" value="Quiz information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="833" y="523" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=circle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-34" value="Recommendation database" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="270" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-35" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-34" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=circle;endFill=0;" parent="1" source="gekM-W5_mr-w-h8HD7DQ-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-36" value="Quiz database" style="html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="520" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-37" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="gekM-W5_mr-w-h8HD7DQ-36" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-44" value="Reccomendations from a trusted source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1171" y="272" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-50" value="Exercise metrics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="515" y="272" width="48" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-55" value="Meal / exercise information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="492" y="367" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-57" value="Quizzes from a trusted source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1185" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gekM-W5_mr-w-h8HD7DQ-60" value="Recommendation information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="779" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
