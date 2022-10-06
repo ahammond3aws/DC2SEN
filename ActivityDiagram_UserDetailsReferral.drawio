@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" modified="2022-10-06T19:01:28.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="R8bivwp752huH1OZpCdS" version="20.4.0" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FvRO2XjgYyoS-y384rJ-2" target="3FvRO2XjgYyoS-y384rJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-2" value="" style="ellipse;whiteSpace=wrap;html=1;direction=east;fillColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="300" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FvRO2XjgYyoS-y384rJ-4" target="3FvRO2XjgYyoS-y384rJ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-7" value="[user is logged in]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3FvRO2XjgYyoS-y384rJ-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-4" value="Open app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="255" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FvRO2XjgYyoS-y384rJ-5" target="3FvRO2XjgYyoS-y384rJ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-10" value="[user wants to change account details]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3FvRO2XjgYyoS-y384rJ-9" vertex="1" connectable="0">
+          <mxGeometry x="0.293" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FvRO2XjgYyoS-y384rJ-5" target="3FvRO2XjgYyoS-y384rJ-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-15" value="[user wants to refer a friend]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3FvRO2XjgYyoS-y384rJ-14" vertex="1" connectable="0">
+          <mxGeometry x="0.3188" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-5" value="Click on user profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="255" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FvRO2XjgYyoS-y384rJ-8" target="3FvRO2XjgYyoS-y384rJ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-8" value="Enter new details" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="110" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3FvRO2XjgYyoS-y384rJ-11" target="3FvRO2XjgYyoS-y384rJ-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="670" />
+              <mxPoint x="315" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-11" value="Save changes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="110" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FvRO2XjgYyoS-y384rJ-13" target="3FvRO2XjgYyoS-y384rJ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-13" value="Copy referal code on profile page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="414" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3FvRO2XjgYyoS-y384rJ-16" target="3FvRO2XjgYyoS-y384rJ-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="670" />
+              <mxPoint x="315" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-16" value="Send code to friend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="414" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FvRO2XjgYyoS-y384rJ-18" value="" style="ellipse;whiteSpace=wrap;html=1;direction=east;fillColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="300" y="710" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
