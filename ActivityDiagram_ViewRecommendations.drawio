@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T19:45:03.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="grEDxX4VMCHl51P9F09X" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-06T19:56:22.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-dlJG8HxnMqKNLhD60ZS" version="20.4.0" type="github">
   <diagram id="nPuME2crnnW3aW1Ezi_L" name="Page-1">
     <mxGraphModel dx="1673" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,27 @@
         </mxCell>
         <mxCell id="KCT2T_2WVP6uUBoKl98X-63" value="" style="ellipse;whiteSpace=wrap;html=1;direction=east;fillColor=#050505;" vertex="1" parent="1">
           <mxGeometry x="399" y="740" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCT2T_2WVP6uUBoKl98X-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KCT2T_2WVP6uUBoKl98X-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCT2T_2WVP6uUBoKl98X-66" value="[user is not logged in]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KCT2T_2WVP6uUBoKl98X-65">
+          <mxGeometry x="-0.5349" y="-2" relative="1" as="geometry">
+            <mxPoint x="32" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCT2T_2WVP6uUBoKl98X-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KCT2T_2WVP6uUBoKl98X-68" target="KCT2T_2WVP6uUBoKl98X-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469" y="267.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="614" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCT2T_2WVP6uUBoKl98X-68" value="Log into app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="554" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
