@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T00:43:53.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eVcPjj-vOHaAKwGhd9n0" version="20.6.0" type="github"><diagram id="C8AFp-pyY6J9dGBlVLXl" name="Page-1">3Vvdb9s2EP9rDHQPBvRhO/FjkyZNsWXo1g4D9jIw0lkiIpEqSUV2/vrxS7ZkWVgLUFKjF1uiqDvyePzd8e60CG/z/UeGivSRxpAtAi/eL8IPiyAIN6uV/FMtB9MShN61aUkYjk2bf2r4gl/BNnq2tcQx8FZHQWkmcNFujCghEIlWG2KMVu1uO5q1uRYosRy9U8OXCGXQ6fY3jkVqWq+Dq1P7A+AkrTn7m615kqO6syXMUxTTqtEU3i3CW0apMFf5/hYyJb1aLua9+56nx4ExIOJ7Xrh6uip/zz99+qdcBvf/bh+Dh/v9MjBUXlBW2gn/xYHZAYtDLQVGSxKDIuQtwpsqxQK+FChSTyu58LItFXkm73x5uaNE2IX0r+U9ynBC5E0GOznQGy5fxCT5Td99kGK4sWMAJmDfOzn/KDKpbEBzEOwgu9gXlpu1FXOtaPa2Oi3aOrRtaWPBVrYNWT1JjqRPopQXVpo/INmwI9kHyUNqIGZcyH+CclgEm0yJ5Im1xL35Viql0IJcci3J97KDf13stbTq5/IqUf+GMC+Zc5qlVAbnRAvEeUVZ7JQogx0whjINBbGrAX8EAgwJUBzQYFxuEVHvg1KLhKKMO6Ub0bzIQMjBet9K/PoKrsgbwSuxCIaiZwUbLoedIpKoQT+BqACIBm8aK45E/cIeWIQ5DMSeSRDA8AL6UoowBxIjgSnhI4OjgkUs7dF721HQYiDI3HQhM9xegMxgPRRmrjqY+dXp0v7hVP//bOmFK8Qx+38mKnbUqX4V81ejqti6X8Xens/TFu5ytZ7a6dn0OT0Sud2anRr+3dpKSrKDdtWlo34ctUdZm6GHRG34sDPfyAwAxbFjcTXpDiO0spAIqAyl0h151APrbbifRR+nYebFK7nLz/0P3nFAHDM9kChllBjPhueIKV2rkIjSAXh+ZvRFn6+VMAXCmdms7JLX44ThbCxbB3v9yb2nq56zvJOFu9e+txNSd0fPfRA3bB4KFobfoWAj+07XHQWbVPZDbGM/nNqF2va4UBqPXcNxHTlKEuAC9OFa6XPmzMD8SlQEtnFE9zCR9iV3eWSqedjQyQAcmmGgYeziZxw99y/FPCCts9m2k5vMGlOHsZlugxezigx0zNsFXRjZugXdw6sS+dszamu/LVv/gmzHtWlB1zU1lkcePSKGC4dQbVMMjCYMuLEGsdRgyUHRfXcMWRfSB5XyRAn84uz8lkVlZq1EVDK9XM2hzGPnnmtXcMFjGhnFg65jOiuw3Hr/L/KRwTIMOiI/BtffGl6e+yXrCyetkXPHfcnjGGEdoFSJPKeAmcve6RCEM6yz3XSnoRBeMC35wnUm8hGxZ34cvacZn9Kezo8AMXK8Bk3i7ZWYB4B1dtiFRMXINiPs5honqHwZzb++JPGxTUY39TaFlR5Anad3sMO+xBuKBNZFDBXA88JteckZhxq43LPA5MjEPfGmgaptRuyY03kZEYGqOy1n4fCdPG6kmpdIYTjx/VDuCOVq35InbvDNTUoCRGTm2Yr4eTtG84XzqqAUTITOLFXjWOfUg7HUWx5M7DTBGKmJtCZgdD+Z04npHKF/gkNqOGh6bpBapGkqY0bziX6GY3Q3cnHKjr41t+g8MrTcXE3uF/Vl05rVo4fCbX1zg3YGJFFOkctknTAlIbYIRf9qAAe3afU7LnBeRzNRRhlWEyq5+l5iJoDQVdjpzUS9FSYvUBwtmnlR6iPj8MrvSN0UvLx5DA4nL2hYdUPFp6LQIfDX0nX/gQ2wF7lg6kq9EnjvsHKoE4Zy7iqJZDiZslIL69KjU0wHBHVMBHqeL6oH09cZrLoB/bmj+iWpO0N1eXv6cFI/a3x/Gt79Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-03T00:45:32.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="74v_MwU0iKOLTXoQXxAm" version="20.6.0" type="github">
+  <diagram id="C8AFp-pyY6J9dGBlVLXl" name="Page-1">
+    <mxGraphModel dx="3644" dy="2308" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-2" value="User" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="-650" y="20" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-3" value="Has first name&lt;br style=&quot;font-size: 18px;&quot;&gt;Has surname&lt;br style=&quot;font-size: 18px;&quot;&gt;Has username&lt;br style=&quot;font-size: 18px;&quot;&gt;Has password&lt;br style=&quot;font-size: 18px;&quot;&gt;Has referral code&lt;br style=&quot;font-size: 18px;&quot;&gt;Generates a referral code&lt;br style=&quot;font-size: 18px;&quot;&gt;Can set goals&lt;br style=&quot;font-size: 18px;&quot;&gt;Can complete quizzes&lt;br style=&quot;font-size: 18px;&quot;&gt;Has a tracker&lt;br style=&quot;font-size: 18px;&quot;&gt;Can change between food and exercise tracker&lt;br style=&quot;font-size: 18px;&quot;&gt;Can retrieve recommendations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-650" y="60" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-4" value="Tracker&lt;br style=&quot;font-size: 18px;&quot;&gt;Quizzes&lt;br style=&quot;font-size: 18px;&quot;&gt;Recommendation&lt;br style=&quot;font-size: 18px;&quot;&gt;Goals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="60" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-5" value="Tracker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="-450" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-6" value="Has foods&lt;br style=&quot;font-size: 18px;&quot;&gt;Has exercises&lt;br style=&quot;font-size: 18px;&quot;&gt;Can only show foods or exercises at a time&lt;br style=&quot;font-size: 18px;&quot;&gt;Can add foods&lt;br style=&quot;font-size: 18px;&quot;&gt;Can add exercises&lt;br style=&quot;font-size: 18px;&quot;&gt;Can update / delete foods&lt;br style=&quot;font-size: 18px;&quot;&gt;Can update / delete exercises&lt;br style=&quot;font-size: 18px;&quot;&gt;Can swap between foods and exercises&lt;br style=&quot;font-size: 18px;&quot;&gt;Can synchronise smart watch exercises&lt;br style=&quot;font-size: 18px;&quot;&gt;Provides details for recommendations&lt;br style=&quot;font-size: 18px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="-410" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-7" value="User&lt;br style=&quot;font-size: 18px;&quot;&gt;Food&lt;br style=&quot;font-size: 18px;&quot;&gt;Exercise&lt;br style=&quot;font-size: 18px;&quot;&gt;Recommendation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="330" y="-410" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-8" value="Recommendation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="-130" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-9" value="Has recomendations&lt;br style=&quot;font-size: 18px;&quot;&gt;Has suggested articles&lt;br style=&quot;font-size: 18px;&quot;&gt;Knows tracker information&lt;br style=&quot;font-size: 18px;&quot;&gt;Knows goals information&lt;br style=&quot;font-size: 18px;&quot;&gt;Generates recommendations&lt;br style=&quot;font-size: 18px;&quot;&gt;Picks suggested articles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="-90" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-10" value="User&lt;br style=&quot;font-size: 18px;&quot;&gt;Tracker&lt;br style=&quot;font-size: 18px;&quot;&gt;Goals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="330" y="-90" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-26" value="Goal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="510" y="190" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-27" value="Has description&lt;br style=&quot;font-size: 18px;&quot;&gt;Has progress indicatior (as a percentage)&lt;br style=&quot;font-size: 18px;&quot;&gt;Calculates current progress" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="510" y="230" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-28" value="Goals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="900" y="230" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-32" value="Quizzes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="510" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-33" value="Has daily quiz&lt;br style=&quot;font-size: 18px;&quot;&gt;Has month quiz&lt;br style=&quot;font-size: 18px;&quot;&gt;Has list of previous quizzes&lt;br style=&quot;font-size: 18px;&quot;&gt;Marks quiz as complete&lt;br style=&quot;font-size: 18px;&quot;&gt;Generates day quiz&lt;br style=&quot;font-size: 18px;&quot;&gt;Generates month quiz" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="550" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-34" value="User" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="330" y="550" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-35" value="Goals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="190" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-36" value="Has active week goals&lt;br style=&quot;font-size: 18px;&quot;&gt;Has active month goals&lt;br style=&quot;font-size: 18px;&quot;&gt;Has inactive goals&lt;br style=&quot;font-size: 18px;&quot;&gt;Has list of completed goals&lt;br style=&quot;font-size: 18px;&quot;&gt;Generates a new inactive goal&lt;br style=&quot;font-size: 18px;&quot;&gt;Refreshes the inactive goals&lt;br style=&quot;font-size: 18px;&quot;&gt;Provides details for recommendations&amp;nbsp;&lt;br style=&quot;font-size: 18px;&quot;&gt;Fetches information from tracker&lt;br style=&quot;font-size: 18px;&quot;&gt;Checks goal progress&lt;br style=&quot;font-size: 18px;&quot;&gt;Marks goal as completed&lt;br style=&quot;font-size: 18px;&quot;&gt;Can check progress of goals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="230" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-37" value="User&lt;br style=&quot;font-size: 18px;&quot;&gt;Recommendation&lt;br style=&quot;font-size: 18px;&quot;&gt;Tracker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="330" y="230" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-38" value="Exercise" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-670" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-39" value="Has exercise type&lt;br style=&quot;font-size: 18px;&quot;&gt;Has exercise length&lt;br style=&quot;font-size: 18px;&quot;&gt;Has start and end of exercise&lt;br style=&quot;font-size: 18px;&quot;&gt;Estimates calorie usage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-630" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-40" value="Tracker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="900" y="-630" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-41" value="Food" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-330" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-42" value="Has food type&lt;br style=&quot;font-size: 18px;&quot;&gt;Has food name&lt;br style=&quot;font-size: 18px;&quot;&gt;Has serving size (in grams)&lt;br style=&quot;font-size: 18px;&quot;&gt;Has time of eating&lt;br style=&quot;font-size: 18px;&quot;&gt;Estimates calorie intake" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-290" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-43" value="Tracker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="900" y="-290" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="KnIYCJtJgT_xI70_bm0W-1" value="Tracker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-450" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KnIYCJtJgT_xI70_bm0W-2" value="Exercise" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-670" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KnIYCJtJgT_xI70_bm0W-3" value="Food" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-330" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KnIYCJtJgT_xI70_bm0W-4" value="Recommendation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-130" width="540" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
