@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T00:54:51.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="tRU8BDJwgCzABA5jvWuB" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T00:55:52.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="jV8hkxGpDg3JEhuAAZTf" type="github">
   <diagram id="1zsrYsu_AoUvq1Fhgnbw" name="Page-1">
-    <mxGraphModel dx="3314" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3314" dy="1612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
         <mxCell id="QL_lzWCikUU2BDhphzM5-57" value="- activeWeekGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- activeMonthGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- inactiveGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- completedGoals: ArrayList&amp;lt;Goal&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="1">
           <mxGeometry x="100.5" y="-110" width="220" height="71.5" as="geometry" />
         </mxCell>
-        <mxCell id="QL_lzWCikUU2BDhphzM5-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamondThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" target="QL_lzWCikUU2BDhphzM5-61">
+        <mxCell id="QL_lzWCikUU2BDhphzM5-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamondThin;startFill=1;endArrow=none;endFill=0;startSize=11;" edge="1" parent="1" target="QL_lzWCikUU2BDhphzM5-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="101" y="-39" as="sourcePoint" />
             <mxPoint x="-18.5" y="-36.67999999999995" as="targetPoint" />
