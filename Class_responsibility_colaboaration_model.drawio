@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T00:45:32.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="74v_MwU0iKOLTXoQXxAm" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T00:52:56.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FitDw6t1YlOahG-JfAaK" version="20.6.0" type="github">
   <diagram id="C8AFp-pyY6J9dGBlVLXl" name="Page-1">
     <mxGraphModel dx="3644" dy="2308" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="7b7uNmIIZu-2F_9M2HFx-26" value="Goal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;" parent="1" vertex="1">
           <mxGeometry x="510" y="190" width="540" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7b7uNmIIZu-2F_9M2HFx-27" value="Has description&lt;br style=&quot;font-size: 18px;&quot;&gt;Has progress indicatior (as a percentage)&lt;br style=&quot;font-size: 18px;&quot;&gt;Calculates current progress" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7b7uNmIIZu-2F_9M2HFx-27" value="Has description&lt;br style=&quot;font-size: 18px;&quot;&gt;Has progress indicatior (as a percentage)&lt;br style=&quot;font-size: 18px;&quot;&gt;Updates current progress" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="510" y="230" width="390" height="250" as="geometry" />
         </mxCell>
         <mxCell id="7b7uNmIIZu-2F_9M2HFx-28" value="Goals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;spacingLeft=2;verticalAlign=top;" parent="1" vertex="1">
