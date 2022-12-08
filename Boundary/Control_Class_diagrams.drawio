@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2022-12-08T15:17:46.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3TANPeRFLci74bUh4FDe" version="20.6.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1651" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-0" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;AppGUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-1" value="- X: int&lt;br&gt;- Y: int" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="80" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-2" value="- pressTouch(X: int, Y: int): void&lt;br&gt;- holdTouch(X: int, Y: int): void&lt;br&gt;- display(): void" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="120" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-3" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;LoginManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-4" value="- isLoggedIn: boolean&lt;br&gt;- currentUser: User" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="80" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-5" value="- login(): void&lt;br&gt;- logout(): void" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="120" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-6" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;RegistrationManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-7" value="- firstName" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="80" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-8" value="- register(): void&lt;br&gt;- processPayment(): void&lt;br&gt;- validateUserCredentials(): boolean" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="120" width="220" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
