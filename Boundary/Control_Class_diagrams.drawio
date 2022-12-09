@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2022-12-09T23:06:46.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="x7-xT02Gfcy-n6PwwM8g" version="20.6.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2437" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-0" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;AppGUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-1" value="- X: int&lt;br&gt;- Y: int" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-2" value="- pressTouch(X: int, Y: int): void&lt;br&gt;- displayHome(): void&lt;br&gt;- displayLogin(): void&lt;br&gt;- displayRegistration(): void&lt;br&gt;- displayTracker(): void&lt;br&gt;- displayGoals(): void&lt;br&gt;- displayRecommendations(): void&lt;br&gt;- displayQuizzes(): void" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="120" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-3" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;LoginManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="40" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-4" value="- isLoggedIn: boolean&lt;br&gt;- currentUser: User" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="80" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-5" value="- login(username: String, password: char[]): void&lt;br&gt;- validateUser(): void&lt;br&gt;- logout(): void" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="120" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-6" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;RegistrationManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-7" value="- firstName: String&lt;br&gt;- lastName: String&lt;br&gt;- username: String&lt;br&gt;- password: char[]&lt;br&gt;- dateOfBirth: DateTime&lt;br&gt;- email: Sting&lt;br&gt;- subscriptionCost(): double" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="80" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-8" value="- register(): void&lt;br&gt;- processPayment(): void&lt;br&gt;- validateUserCredentials(): boolean&lt;br&gt;- applyVoucherCodes(): void" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="200" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-24" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;QuizManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-870" y="300" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-25" value="- dbURL: String&lt;br&gt;- username: String&lt;br&gt;- password: char[]" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-870" y="340" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-26" value="- connectToDB(): Boolean&lt;br&gt;- fetchData():&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;HashMap&amp;lt;int, HashMap&amp;lt;String, HashMap&amp;lt;String, String&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-870" y="390" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-27" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;RecommendationManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-425" y="300" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-28" value="- dbURL: String&lt;br&gt;- username: String&lt;br&gt;- password: char[]" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-425" y="340" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-29" value="- connectToDB(): Boolean&lt;br&gt;- fetchData(): String" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-425" y="390" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-30" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;GoalManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="300" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-31" value="- dbURL: String&lt;br&gt;- username: String&lt;br&gt;- password: char[]" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="340" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-32" value="- connectToDB(): Boolean&lt;br&gt;- fetchData(): String" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="390" width="240" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
