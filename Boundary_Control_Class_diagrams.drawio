@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T23:18:15.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="z93FaJskSUJQv5YDkPQY" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T23:04:05.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="k72rxHbUwcBUkrqyBGG2" version="20.7.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1741" dy="1275" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2874" dy="1156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -49,14 +49,14 @@
         <mxCell id="w24_xTTsymOZ64Kal-NZ-32" value="connectToDB()&lt;br&gt;fetchData()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-614" y="612" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UKrykxVOIUrhVkqHI4r5-0" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;AppGUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-906" y="-41" width="340" height="40" as="geometry" />
+        <mxCell id="UKrykxVOIUrhVkqHI4r5-0" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;AppGUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-906" y="-73" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UKrykxVOIUrhVkqHI4r5-1" value="loginManager&lt;br&gt;registrationManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-906" y="-1" width="340" height="40" as="geometry" />
+        <mxCell id="UKrykxVOIUrhVkqHI4r5-1" value="loginManager&lt;br&gt;registrationManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-906" y="-33" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UKrykxVOIUrhVkqHI4r5-2" value="displayHome()&lt;br&gt;displayLogin()&lt;br&gt;submitLogin(username, password)&lt;br&gt;displayRegistration()&lt;br&gt;submitRegistration(firstName, lastName, username, password,&lt;br&gt;dateOfBirth, email, voucher)&lt;br&gt;displayTracker()&lt;br&gt;addTrackerItem(tracker, type, start, end)&lt;br&gt;updateTrackerItem(tracker, type, start, end, existingItem)&lt;br&gt;removeTrackerItem(tracker, existingItem)&lt;br&gt;displayGoals()&lt;br&gt;addGoal(id)&lt;br&gt;removeGoal(id)&lt;br&gt;displayRecommendations()&lt;br&gt;displayQuizzes()&lt;br&gt;displayQuiz(id)&lt;br&gt;submitQuiz(id, answers)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-906" y="39" width="340" height="260" as="geometry" />
+        <mxCell id="UKrykxVOIUrhVkqHI4r5-2" value="displayHome()&lt;br&gt;displayLogin()&lt;br&gt;submitLogin(username, password)&lt;br&gt;displayRegistration()&lt;br&gt;submitRegistration(firstName, lastName, username, password,&lt;br&gt;dateOfBirth, email, voucher)&lt;br&gt;displayProfile()&lt;br&gt;updateProfile(firstName, lastName, username, password,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;dateOfBirth, email, voucher)&lt;br&gt;displayTracker()&lt;br&gt;addTrackerItem(tracker, type, start, end)&lt;br&gt;updateTrackerItem(tracker, type, start, end, existingItem)&lt;br&gt;removeTrackerItem(tracker, existingItem)&lt;br&gt;displayGoals()&lt;br&gt;addGoal(id)&lt;br&gt;removeGoal(id)&lt;br&gt;displayRecommendations()&lt;br&gt;displayQuizzes()&lt;br&gt;displayQuiz(id)&lt;br&gt;submitQuiz(id, answers)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-906" y="7" width="340" height="297" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
