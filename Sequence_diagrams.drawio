@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T23:38:12.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="doHJhMA0sF9jJl3Sr1Ey" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T23:43:45.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="p3iefHz16iKVqsPkpDuN" version="20.7.3" type="github">
   <diagram id="c1oZlRYy-DprkKR2t52D" name="Page-1">
-    <mxGraphModel dx="1503" dy="608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2542,7 +2542,7 @@
             <mxPoint x="689" y="3211" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUloH9DEDX4tPpxW6tqJ-543" value="&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;u&gt;qo1: Goal&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sUloH9DEDX4tPpxW6tqJ-543" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;qm1: GoalManager&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="772" y="3035" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sUloH9DEDX4tPpxW6tqJ-544" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sUloH9DEDX4tPpxW6tqJ-545">
@@ -2580,7 +2580,7 @@
             <mxPoint x="819" y="3214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUloH9DEDX4tPpxW6tqJ-550" value="generateQuiz()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="sUloH9DEDX4tPpxW6tqJ-549">
+        <mxCell id="sUloH9DEDX4tPpxW6tqJ-550" value="generateGoal()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="sUloH9DEDX4tPpxW6tqJ-549">
           <mxGeometry x="-0.3022" y="-1" relative="1" as="geometry">
             <mxPoint x="19" y="-3" as="offset" />
           </mxGeometry>
@@ -2596,7 +2596,7 @@
             <mxPoint x="19" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUloH9DEDX4tPpxW6tqJ-553" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;u&gt;qm1: GoalManager&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sUloH9DEDX4tPpxW6tqJ-553" value="&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;qo1: Goal&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="913" y="3035" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sUloH9DEDX4tPpxW6tqJ-554" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sUloH9DEDX4tPpxW6tqJ-555">
