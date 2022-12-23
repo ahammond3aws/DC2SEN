@@ -6425,12 +6425,7 @@
             <mxPoint x="281.5020000000004" y="2586.3590000000004" as="sourcePoint" />
             <mxPoint x="405" y="2586" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UoUBTVlYaxhi-stydO5l-1497" value="addExerciseItem(details)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="UoUBTVlYaxhi-stydO5l-1496">
-          <mxGeometry x="-0.3022" y="-1" relative="1" as="geometry">
-            <mxPoint x="20" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
+        </mxCell>        
         <mxCell id="UoUBTVlYaxhi-stydO5l-1498" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=0;endArrow=block;endFill=1;exitX=0.967;exitY=0.379;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="281.5010000000011" y="2532.0029999999997" as="sourcePoint" />
