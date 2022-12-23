@@ -6395,10 +6395,7 @@
           <mxGeometry x="-0.3022" y="-1" relative="1" as="geometry">
             <mxPoint x="19" y="-3" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UoUBTVlYaxhi-stydO5l-1629" value="&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;u&gt;t1: Tracker&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-402.5" y="2980.5" width="120" height="40" as="geometry" />
-        </mxCell>
+        </mxCell> 
         <mxCell id="UoUBTVlYaxhi-stydO5l-1630" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UoUBTVlYaxhi-stydO5l-1631">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-342.8000000000002" y="3020.5" as="sourcePoint" />
