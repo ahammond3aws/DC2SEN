@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T15:07:04.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SRorwD2a6BXgz9269QP-" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T15:14:54.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8SCdM9L_EZP8QhLMSvts" version="20.8.0" type="github">
   <diagram id="-1bJbAK5GgNlzDzoAg7J" name="Page-1">
     <mxGraphModel dx="-163" dy="311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -489,36 +489,38 @@
         <mxCell id="BDm3REAGpp8tmRv-bOrY-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="BDm3REAGpp8tmRv-bOrY-119" target="BDm3REAGpp8tmRv-bOrY-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-114" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1.1. getQuizzes()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-113" vertex="1" connectable="0">
+        <mxCell id="BDm3REAGpp8tmRv-bOrY-114" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1.1. getQuizzes():&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;quizzes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-113" vertex="1" connectable="0">
           <mxGeometry x="-0.2244" y="-2" relative="1" as="geometry">
             <mxPoint x="2" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="BDm3REAGpp8tmRv-bOrY-119" target="BDm3REAGpp8tmRv-bOrY-133" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1190.94" y="1195.1000000000004" />
-              <mxPoint x="1190.94" y="1257.1000000000004" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-116" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2.1.1. generateQuiz()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-115" vertex="1" connectable="0">
-          <mxGeometry x="0.063" relative="1" as="geometry">
-            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="BDm3REAGpp8tmRv-bOrY-119" target="BDm3REAGpp8tmRv-bOrY-133" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1290.94" y="1224.1000000000004" />
-              <mxPoint x="1243.94" y="1224.1000000000004" />
-              <mxPoint x="1243.94" y="1267.1000000000004" />
+              <mxPoint x="1291" y="1225" />
+              <mxPoint x="1229" y="1225" />
+              <mxPoint x="1229" y="1267" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-118" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;4.1.1. markQuiz(answers)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-117" vertex="1" connectable="0">
+        <mxCell id="BDm3REAGpp8tmRv-bOrY-118" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;4.1.1. markQuiz(answers): results&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-117" vertex="1" connectable="0">
           <mxGeometry x="-0.204" relative="1" as="geometry">
             <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pK_a_7zJMjS60tyyFLj3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="BDm3REAGpp8tmRv-bOrY-119" target="BDm3REAGpp8tmRv-bOrY-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="1195" />
+              <mxPoint x="1200" y="1231" />
+              <mxPoint x="1162" y="1231" />
+              <mxPoint x="1162" y="1257" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pK_a_7zJMjS60tyyFLj3-27" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 8px;&quot;&gt;2.1.1. generateQuiz():&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 8px;&quot;&gt;quiz&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pK_a_7zJMjS60tyyFLj3-26">
+          <mxGeometry x="0.1315" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-119" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;u&gt;um1: UserManager&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -527,17 +529,9 @@
         <mxCell id="BDm3REAGpp8tmRv-bOrY-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="BDm3REAGpp8tmRv-bOrY-124" target="BDm3REAGpp8tmRv-bOrY-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-121" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1.1.1. getQuizzes()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-120" vertex="1" connectable="0">
+        <mxCell id="BDm3REAGpp8tmRv-bOrY-121" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1.1.1. getQuizzes(): quizzes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-120" vertex="1" connectable="0">
           <mxGeometry x="0.1661" relative="1" as="geometry">
             <mxPoint x="10" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="BDm3REAGpp8tmRv-bOrY-124" target="BDm3REAGpp8tmRv-bOrY-119" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-123" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1.1.3. quizzes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-122" vertex="1" connectable="0">
-          <mxGeometry x="0.1152" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-124" value="&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;u&gt;u1: User&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -546,70 +540,16 @@
         <mxCell id="BDm3REAGpp8tmRv-bOrY-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="BDm3REAGpp8tmRv-bOrY-133" target="BDm3REAGpp8tmRv-bOrY-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-126" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2.1.1.1. generateQuiz()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-125" vertex="1" connectable="0">
+        <mxCell id="BDm3REAGpp8tmRv-bOrY-126" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2.1.1.1. generateQuiz(): quiz&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-125" vertex="1" connectable="0">
           <mxGeometry x="-0.2489" relative="1" as="geometry">
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BDm3REAGpp8tmRv-bOrY-133" target="BDm3REAGpp8tmRv-bOrY-124" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1127.92" y="1311.54" />
-              <mxPoint x="1290.92" y="1311.54" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-128" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1.1.2. quizzes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-127" vertex="1" connectable="0">
-          <mxGeometry x="-0.0158" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;entryX=1.019;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1095.94" y="1287.1000000000008" as="sourcePoint" />
-            <mxPoint x="1381.2199999999998" y="1194.5400000000004" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1095.92" y="1327.54" />
-              <mxPoint x="1434.92" y="1327.54" />
-              <mxPoint x="1434.92" y="1193.54" />
-              <mxPoint x="1380.92" y="1193.54" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-130" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2.1.1.3. quiz&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-129" vertex="1" connectable="0">
-          <mxGeometry x="-0.1752" y="2" relative="1" as="geometry">
-            <mxPoint x="-22" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1.012;entryY=0.211;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1066.94" y="1287.1000000000008" as="sourcePoint" />
-            <mxPoint x="1381.3799999999992" y="1183.54" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1066.92" y="1343.54" />
-              <mxPoint x="1451.92" y="1343.54" />
-              <mxPoint x="1451.92" y="1183.54" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-132" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;4.1.2. results&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-131" vertex="1" connectable="0">
-          <mxGeometry x="-0.3046" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-133" value="&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;u&gt;q1: Quizzes&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1037.94" y="1247.1000000000004" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="BDm3REAGpp8tmRv-bOrY-136" target="BDm3REAGpp8tmRv-bOrY-133" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-135" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2.1.1.2. quiz&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-134" vertex="1" connectable="0">
-          <mxGeometry x="0.1656" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="994" y="1247.0000000000005" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-136" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;u&gt;qm1: QuizManager&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1037.94" y="1160.1000000000004" width="120" height="40" as="geometry" />
+          <mxGeometry x="994" y="1161.0000000000005" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;entryX=-0.005;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1199,7 +1139,7 @@
           <mxGeometry x="1358.4213681831407" y="1526.785791644401" as="geometry" />
         </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-228" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1344.22" y="1106.1000000000004" width="31" height="69" as="geometry" />
+          <mxGeometry x="1303.39" y="1106.1000000000004" width="31" height="69" as="geometry" />
         </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="BDm3REAGpp8tmRv-bOrY-228" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1219,49 +1159,16 @@
             <mxPoint y="69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-232" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1. getQuizzes()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-231" vertex="1" connectable="0">
+        <mxCell id="BDm3REAGpp8tmRv-bOrY-232" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1. getQuizzes():&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;quizzes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-231" vertex="1" connectable="0">
           <mxGeometry x="-0.7101" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-233" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2.1. generateQuiz()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-228" vertex="1" connectable="0">
-          <mxGeometry x="15" y="27.307692307691468" as="geometry" />
+        <mxCell id="BDm3REAGpp8tmRv-bOrY-233" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2.1. generateQuiz():&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;quiz&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-228" vertex="1" connectable="0">
+          <mxGeometry x="15" y="28.307692307691468" as="geometry" />
         </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-234" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;4.1. markQuiz(answers)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-228" vertex="1" connectable="0">
+        <mxCell id="BDm3REAGpp8tmRv-bOrY-234" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;4.1. markQuiz(answers):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;results&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-228" vertex="1" connectable="0">
           <mxGeometry x="31" y="45.615384615384755" as="geometry" />
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=open;startFill=0;endArrow=none;endFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1299.9399999999996" y="1106.1000000000004" as="sourcePoint" />
-            <mxPoint x="1299.9399999999996" y="1175.1000000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1284.42" y="1106.1000000000004" as="sourcePoint" />
-            <mxPoint x="1284.42" y="1175.1000000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=open;startFill=0;endArrow=none;endFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1269.42" y="1106.1000000000004" as="sourcePoint" />
-            <mxPoint x="1269.42" y="1175.1000000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-238" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;1.1.1.4. quizzes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BDm3REAGpp8tmRv-bOrY-237" vertex="1" connectable="0">
-          <mxGeometry x="-0.7101" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-239" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2.1.1.4. quiz&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1284.92" y="1144.537692307692" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BDm3REAGpp8tmRv-bOrY-240" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;4.1.3. results&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1300.92" y="1163.5353846153853" as="geometry">
-            <mxPoint x="-1" y="-2" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="BDm3REAGpp8tmRv-bOrY-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=open;endFill=0;exitX=1.006;exitY=0.118;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="BDm3REAGpp8tmRv-bOrY-154" edge="1">
           <mxGeometry relative="1" as="geometry">
