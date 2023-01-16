@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T23:41:11.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VFIGbGNNkDg3YIaDCZFz" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T10:18:51.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nCTWYvCjCH-rbOLx844a" version="20.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2874" dy="1156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="1156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,29 +25,29 @@
         <mxCell id="w24_xTTsymOZ64Kal-NZ-24" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;QuizManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1019.5" y="588" width="129" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w24_xTTsymOZ64Kal-NZ-25" value="dbURL&lt;br&gt;username&lt;br&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-25" value="quizDbURL&lt;br&gt;username&lt;br&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1019.5" y="628" width="129" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w24_xTTsymOZ64Kal-NZ-26" value="connectToDB()&lt;br&gt;fetchData()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-26" value="fetchQuizData()&lt;br&gt;generateQuiz()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1019.5" y="678" width="129" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w24_xTTsymOZ64Kal-NZ-27" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;RecommendationManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-807" y="588" width="171" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w24_xTTsymOZ64Kal-NZ-28" value="dbURL&lt;br&gt;username&lt;br&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-28" value="recommendationDbURL&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;username&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-807" y="628" width="171" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w24_xTTsymOZ64Kal-NZ-29" value="connectToDB()&lt;br&gt;fetchData()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-29" value="fetchRecommendationData()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;generateNewRecommendation(type)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-807" y="678" width="171" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w24_xTTsymOZ64Kal-NZ-30" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;GoalManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-555.25" y="588" width="134" height="40" as="geometry" />
+          <mxGeometry x="-565.25" y="588" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w24_xTTsymOZ64Kal-NZ-31" value="dbURL&lt;br&gt;username&lt;br&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-555.25" y="628" width="134" height="50" as="geometry" />
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-31" value="goalDbURL&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;username&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-565.25" y="628" width="154" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w24_xTTsymOZ64Kal-NZ-32" value="connectToDB()&lt;br&gt;fetchData()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-555.25" y="678" width="134" height="50" as="geometry" />
+        <mxCell id="w24_xTTsymOZ64Kal-NZ-32" value="fetchGoalData()&lt;br&gt;generateNewGoal(tracker)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-565.25" y="678" width="154" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UKrykxVOIUrhVkqHI4r5-0" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;AppGUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-906" y="-80" width="340" height="40" as="geometry" />
@@ -58,13 +58,13 @@
         <mxCell id="UKrykxVOIUrhVkqHI4r5-2" value="displayHome()&lt;br&gt;displayLogin()&lt;br&gt;submitLogin(username, password)&lt;br&gt;displayRegistration()&lt;br&gt;submitRegistration(firstName, lastName, username, password,&lt;br&gt;dateOfBirth, email, voucher)&lt;br&gt;displayProfile()&lt;br&gt;updateProfile(firstName, lastName, username, password,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;dateOfBirth, email, voucher)&lt;br&gt;displayTracker()&lt;br&gt;addTrackerItem(tracker, type, start, end)&lt;br&gt;updateTrackerItem(tracker, type, start, end, existingItem)&lt;br&gt;removeTrackerItem(tracker, existingItem)&lt;br&gt;displayGoals()&lt;br&gt;addGoal(id)&lt;br&gt;removeGoal(id)&lt;br&gt;displayRecommendations()&lt;br&gt;displayQuizzes()&lt;br&gt;displayQuiz(id)&lt;br&gt;submitQuiz(id, answers)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-906" y="7" width="340" height="297" as="geometry" />
         </mxCell>
-        <mxCell id="xLYzDKF304T43SrzNeq9-0" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;UserManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xLYzDKF304T43SrzNeq9-0" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;UserManager" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-837.75" y="330" width="232.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xLYzDKF304T43SrzNeq9-1" value="currentUser&lt;br&gt;dbURL&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;username&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xLYzDKF304T43SrzNeq9-1" value="currentUser&lt;br&gt;dbURL&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;username&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-837.75" y="370" width="232.5" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="xLYzDKF304T43SrzNeq9-2" value="getUser(username, password)&lt;br&gt;editUserDetails(firstName, lastName, username, password,dateOfBirth, email, voucher)&lt;br&gt;changeGoals(action,content)&lt;br&gt;changeTracker(action,content)&lt;br&gt;changeQuizzes(action,content)&lt;br&gt;changeRecommendations(action,content)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xLYzDKF304T43SrzNeq9-2" value="getUser(username, password)&lt;br&gt;editUserDetails(firstName, lastName, username, password,dateOfBirth, email, voucher)&lt;br&gt;changeGoals(action,content)&lt;br&gt;changeTracker(action,content)&lt;br&gt;changeQuizzes(action,content)&lt;br&gt;changeRecommendations(action,content)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-837.75" y="434" width="232.5" height="129" as="geometry" />
         </mxCell>
       </root>
