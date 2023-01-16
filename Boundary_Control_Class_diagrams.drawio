@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T11:59:13.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="17qNnnWvEiWnPH0N6P6j" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T11:59:39.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="42qr6uI5D5LcY8X8k1Vd" version="20.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2634" dy="1156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="xLYzDKF304T43SrzNeq9-1" value="currentUser&lt;br&gt;dbURL&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;username&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;password" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-837.75" y="370" width="232.5" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="xLYzDKF304T43SrzNeq9-2" value="getUser(username, password)&lt;br&gt;editUserDetails(firstName, lastName, username, password,dateOfBirth, email, voucher)&lt;br&gt;changeGoals(action,content)&lt;br&gt;changeTracker(action,content)&lt;br&gt;changeQuizzes(action,content)&lt;br&gt;changeRecommendations(action,content)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xLYzDKF304T43SrzNeq9-2" value="getUser(username, password)&lt;br&gt;editUser(firstName, lastName, username, password,dateOfBirth, email, voucher)&lt;br&gt;changeGoals(action,content)&lt;br&gt;changeTracker(action,content)&lt;br&gt;changeQuizzes(action,content)&lt;br&gt;changeRecommendations(action,content)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-837.75" y="434" width="232.5" height="129" as="geometry" />
         </mxCell>
       </root>
