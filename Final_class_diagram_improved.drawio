@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T20:20:04.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kT3dI46nnLE95p97gy-0" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T20:23:20.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fTSvb0ALhKXm1OCpFb5P" version="20.8.10" type="github">
   <diagram id="1zsrYsu_AoUvq1Fhgnbw" name="Page-1">
-    <mxGraphModel dx="1390" dy="1333" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1419" dy="1049" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-13" value="Goals" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="81" y="-140" width="258" height="30" as="geometry" />
+          <mxGeometry x="82" y="-140" width="258" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;startSize=11;" parent="1" source="QL_lzWCikUU2BDhphzM5-15" target="QL_lzWCikUU2BDhphzM5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -151,17 +151,17 @@
           <mxGeometry x="-583" y="230" width="492" height="58" as="geometry" />
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-57" value="- activeWeekGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- activeMonthGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- inactiveGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- completedGoals: ArrayList&amp;lt;Goal&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="1" vertex="1">
-          <mxGeometry x="81" y="-110" width="258" height="71.5" as="geometry" />
+          <mxGeometry x="82" y="-110" width="258" height="71.5" as="geometry" />
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;startSize=11;" parent="1" target="QL_lzWCikUU2BDhphzM5-61" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="81" y="-40" as="sourcePoint" />
+            <mxPoint x="83" y="-39" as="sourcePoint" />
             <mxPoint x="-18.5" y="-36.67999999999995" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-58" value="- generateNewGoal(trackerData: Tracker): void&lt;br&gt;- refreshInactiveGoals(): void&lt;br&gt;- checkGoalProgress(goal: Goal): int&lt;br&gt;- markGoalAsComplete(): void" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="1" vertex="1">
-          <mxGeometry x="80.75" y="-38.5" width="258.25" height="70" as="geometry" />
+          <mxGeometry x="81.75" y="-38.5" width="258.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-60" value="Goal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-256.5" y="-101" width="192.5" height="30" as="geometry" />
