@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T17:47:53.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.13" etag="17nOukqwAXIQ6rdFXUMb" type="github"><diagram name="Page-1" id="xlT_0RJZ5c4lEZYv1TRu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-29T18:57:16.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OEwIwukw8PTIkssVuul5" version="20.8.13" type="github">
+  <diagram name="Page-1" id="xlT_0RJZ5c4lEZYv1TRu">
+    <mxGraphModel dx="2189" dy="521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Q4vHjvEwtIpXRmgnlTA-1" value="Quizzes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-811" y="21" width="492" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4vHjvEwtIpXRmgnlTA-2" value="- dayQuiz: HashMap&amp;lt;int, HashMap&amp;lt;String, HashMap&amp;lt;String, Boolean&amp;gt;&amp;gt;&amp;gt;&lt;br&gt;- dayMonth: HashMap&amp;lt;int, HashMap&amp;lt;String, HashMap&amp;lt;String, Boolean&amp;gt;&amp;gt;&amp;gt;&lt;br&gt;- previousQuizzes: ArrayList&amp;lt;HashMap&amp;lt;int, HashMap&amp;lt;String, HashMap&amp;lt;String, String&amp;gt;&amp;gt;&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="-811" y="51" width="492" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4vHjvEwtIpXRmgnlTA-3" value="- markQuiz(id: int, answers: HashMap&amp;lt;int, String&amp;gt;): void&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;- generateQuiz(): void&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;- generateQuestion(): HashMap&amp;lt;String, Boolean&amp;gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="-811" y="109" width="492" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4vHjvEwtIpXRmgnlTA-4" value="HashMap&amp;lt;String, HashMap&amp;lt;String, Boolean&amp;gt;&amp;gt; quiz;&lt;br&gt;HashMap&amp;lt;String, Boolean&amp;gt; question = generateQuestion();&amp;nbsp;&lt;br&gt;if (dayQuiz.contains(question)) {&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;break;&lt;br&gt;}&lt;br&gt;else if (dayMonth.contains(question)) {&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;break;&lt;br&gt;}&lt;br&gt;else {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;quiz.put(question)&lt;br&gt;}&amp;nbsp;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-297" y="69" width="339" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q4vHjvEwtIpXRmgnlTA-5" value="" style="edgeStyle=none;endArrow=none;exitX=0;exitY=0.5;dashed=1;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="6Q4vHjvEwtIpXRmgnlTA-4" parent="1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-538" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
