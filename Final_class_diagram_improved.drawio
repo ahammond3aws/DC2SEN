@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T16:53:40.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kG0t_M98dUHn_VumRHQo" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T17:58:34.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="npeEW-rN6E4gqlOUbI7T" version="20.8.13" type="github">
   <diagram id="1zsrYsu_AoUvq1Fhgnbw" name="Page-1">
-    <mxGraphModel dx="2712" dy="1453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1903" dy="1008" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
         <mxCell id="QL_lzWCikUU2BDhphzM5-53" value="- dayQuiz: HashMap&amp;lt;int, HashMap&amp;lt;String, HashMap&amp;lt;String, Boolean&amp;gt;&amp;gt;&amp;gt;&lt;br&gt;- dayMonth: HashMap&amp;lt;int, HashMap&amp;lt;String, HashMap&amp;lt;String, Boolean&amp;gt;&amp;gt;&amp;gt;&lt;br&gt;- previousQuizzes: ArrayList&amp;lt;HashMap&amp;lt;int, HashMap&amp;lt;String, HashMap&amp;lt;String, String&amp;gt;&amp;gt;&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="1" vertex="1">
           <mxGeometry x="-583" y="172" width="492" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="QL_lzWCikUU2BDhphzM5-54" value="- markQuiz(id: int, answers: HashMap&amp;lt;int, String&amp;gt;): void&lt;br&gt;- generateQuiz(): void" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="1" vertex="1">
+        <mxCell id="QL_lzWCikUU2BDhphzM5-54" value="- markQuiz(id: int, answers: HashMap&amp;lt;int, String&amp;gt;): void&lt;br&gt;- generateQuiz(): void&lt;br&gt;- generateQuestion(): HashMap&amp;lt;String, Boolean&amp;gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="1" vertex="1">
           <mxGeometry x="-583" y="230" width="492" height="58" as="geometry" />
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-57" value="- activeWeekGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- activeMonthGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- inactiveGoals: ArrayList&amp;lt;Goal&amp;gt;&lt;br&gt;- completedGoals: ArrayList&amp;lt;Goal&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="1" vertex="1">
