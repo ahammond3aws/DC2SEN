@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T20:39:53.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="b-ltA6jGYScR2gmfsSIR" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T12:49:57.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="R-p8WgsQVnIeChqGCsn8" version="20.8.13" type="github">
   <diagram id="1zsrYsu_AoUvq1Fhgnbw" name="Page-1">
-    <mxGraphModel dx="3844" dy="1775" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="1654" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,13 +16,13 @@
         <mxCell id="QL_lzWCikUU2BDhphzM5-4" value="Tracker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="41" y="546" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nQugMnNG07nJpUdE5Vm2-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=15;startSize=15;" edge="1" parent="1" source="QL_lzWCikUU2BDhphzM5-6" target="nQugMnNG07nJpUdE5Vm2-182">
+        <mxCell id="nQugMnNG07nJpUdE5Vm2-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=15;startSize=15;" parent="1" source="QL_lzWCikUU2BDhphzM5-6" target="nQugMnNG07nJpUdE5Vm2-182" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-6" value="Exercise" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="19" y="1041" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nQugMnNG07nJpUdE5Vm2-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=15;startSize=15;" edge="1" parent="1" source="QL_lzWCikUU2BDhphzM5-8" target="nQugMnNG07nJpUdE5Vm2-182">
+        <mxCell id="nQugMnNG07nJpUdE5Vm2-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=15;startSize=15;" parent="1" source="QL_lzWCikUU2BDhphzM5-8" target="nQugMnNG07nJpUdE5Vm2-182" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QL_lzWCikUU2BDhphzM5-8" value="Food" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -182,16 +182,16 @@
         <mxCell id="QL_lzWCikUU2BDhphzM5-70" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Provide exercise/food types&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-341" y="553" width="108" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nQugMnNG07nJpUdE5Vm2-180" value="Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nQugMnNG07nJpUdE5Vm2-180" value="&lt;i&gt;Item&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="121" y="796" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nQugMnNG07nJpUdE5Vm2-181" value="- itemType:&amp;nbsp;TrackerType&lt;br&gt;- itemName: String&lt;br&gt;- itemTime: DateTime&lt;br&gt;- calorieCount: Float" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="1">
+        <mxCell id="nQugMnNG07nJpUdE5Vm2-181" value="- itemType:&amp;nbsp;TrackerType&lt;br&gt;- itemName: String&lt;br&gt;- itemTime: DateTime&lt;br&gt;- calorieCount: Float" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="1" vertex="1">
           <mxGeometry x="121" y="826" width="180" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="nQugMnNG07nJpUdE5Vm2-182" value="- estimateCalorieCount(): Float" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" vertex="1" parent="1">
+        <mxCell id="nQugMnNG07nJpUdE5Vm2-182" value="- estimateCalorieCount(): Float" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" parent="1" vertex="1">
           <mxGeometry x="121" y="892" width="180" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="nQugMnNG07nJpUdE5Vm2-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;startSize=15;endSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nQugMnNG07nJpUdE5Vm2-180" target="QL_lzWCikUU2BDhphzM5-44">
+        <mxCell id="nQugMnNG07nJpUdE5Vm2-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;startSize=15;endSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nQugMnNG07nJpUdE5Vm2-180" target="QL_lzWCikUU2BDhphzM5-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221.99999999999977" y="886" as="targetPoint" />
             <mxPoint x="278.5" y="1013" as="sourcePoint" />
